@@ -1,0 +1,2 @@
+codigoBarrasV1.ImprimeEtiquetas
+codigoBarras.ImprimeEtiquetas

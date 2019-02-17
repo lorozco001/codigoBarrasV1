@@ -1,0 +1,14 @@
+codigoBarrasV1.ventana$6
+codigoBarras.ventana
+codigoBarrasV1.ventana$3
+codigoBarras.ventana$2
+codigoBarrasV1.ventana$2
+codigoBarras.ventana$1
+codigoBarrasV1.ventana$5
+codigoBarrasV1.ventana
+codigoBarras.ventana$4
+codigoBarrasV1.ventana$4
+codigoBarras.ventana$3
+codigoBarras.ventana$6
+codigoBarras.ventana$5
+codigoBarrasV1.ventana$1
